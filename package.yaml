@@ -1,0 +1,33 @@
+name:        th-nowq
+version:     0.1.0.0
+synopsis:    Template Haskell splice that expands to current time
+
+description: TH splice that expands to current time as a string
+             literal in ISO-8601 format. Can be used to embed the
+             compilation timestamp in your application.
+
+homepage:    https://github.com/dzhus/th-nowq#readme
+license:     BSD3
+author:      Dmitry Dzhus
+maintainer:  dima@dzhus.org
+copyright:   2018 Dmitry Dzhus
+category:    Template Haskell
+
+extra-source-files:
+  - README.md
+
+dependencies:
+  - base < 5
+  - template-haskell
+  - time
+
+library:
+  source-dirs: src
+
+tests:
+  readme:
+    main: README.lhs
+    ghc-options:  -pgmL markdown-unlit
+    dependencies:
+      - markdown-unlit
+      - th-nowq
