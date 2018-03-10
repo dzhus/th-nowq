@@ -16,6 +16,10 @@ category:    Template Haskell
 extra-source-files:
   - README.md
 
+ghc-options:
+  - -Wall
+  - -Wcompat
+
 dependencies:
   - base < 5
   - template-haskell
