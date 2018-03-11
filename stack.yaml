@@ -1,1 +1,2 @@
 resolver: lts-10.8
+pvp-bounds: upper
