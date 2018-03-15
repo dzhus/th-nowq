@@ -1,5 +1,5 @@
 name:        th-nowq
-version:     0.1.0.0
+version:     0.1.0.1
 synopsis:    Template Haskell splice that expands to current time
 
 description: TH splice that expands to current time as a string
@@ -33,4 +33,5 @@ tests:
     main: README.lhs
     ghc-options:  -pgmL markdown-unlit
     dependencies:
+      - markdown-unlit
       - th-nowq
