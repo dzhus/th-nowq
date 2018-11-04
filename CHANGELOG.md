@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.0.3] - 2019-02-11
+
+### Changed
+
+- GHC 8.6.x support
+
 ## [0.1.0.2] - 2018-03-15
 
 ### Changed
@@ -14,6 +20,7 @@
 
 ## [0.1.0.0] - 2018-03-11
 
+[0.1.0.3]: https://github.com/dzhus/th-nowq/compare/0.1.0.2...0.1.0.3
 [0.1.0.2]: https://github.com/dzhus/th-nowq/compare/0.1.0.1...0.1.0.2
 [0.1.0.1]: https://github.com/dzhus/th-nowq/compare/0.1.0.0...0.1.0.1
 [0.1.0.0]: https://github.com/dzhus/th-nowq/tree/0.1.0.0
