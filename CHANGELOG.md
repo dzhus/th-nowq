@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.0.4] - 2019-02-21
+
+### Changed
+
+- Dependencies bump
+
 ## [0.1.0.3] - 2019-02-11
 
 ### Changed
@@ -20,6 +26,7 @@
 
 ## [0.1.0.0] - 2018-03-11
 
+[0.1.0.4]: https://github.com/dzhus/th-nowq/compare/0.1.0.3...0.1.0.4
 [0.1.0.3]: https://github.com/dzhus/th-nowq/compare/0.1.0.2...0.1.0.3
 [0.1.0.2]: https://github.com/dzhus/th-nowq/compare/0.1.0.1...0.1.0.2
 [0.1.0.1]: https://github.com/dzhus/th-nowq/compare/0.1.0.0...0.1.0.1
