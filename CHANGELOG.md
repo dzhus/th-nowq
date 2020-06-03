@@ -1,6 +1,12 @@
 # Changelog
 
-## [0.1.0.4] - 2019-02-21
+## [0.1.0.5] - 2020-06-03
+
+### Changed
+
+- Relaxed dependency version bounds
+
+## [0.1.0.4] - 2020-02-21
 
 ### Changed
 
@@ -26,6 +32,7 @@
 
 ## [0.1.0.0] - 2018-03-11
 
+[0.1.0.5]: https://github.com/dzhus/th-nowq/compare/0.1.0.4...0.1.0.5
 [0.1.0.4]: https://github.com/dzhus/th-nowq/compare/0.1.0.3...0.1.0.4
 [0.1.0.3]: https://github.com/dzhus/th-nowq/compare/0.1.0.2...0.1.0.3
 [0.1.0.2]: https://github.com/dzhus/th-nowq/compare/0.1.0.1...0.1.0.2
